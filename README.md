@@ -2,8 +2,6 @@
   
  - My skill sets are let me say it by programming
   
-- ---------------- COMPILER -------------------
--   
 - let all = ["Full Stack web with PHP and JavaScript","MEAN Stack Web Dev","Android With Java","Flutter for Cross Platform"];
 - let one;
 - print("Check of ${all} master of ${one}")
