@@ -9,7 +9,7 @@
 - ----------------------------------------------
 -  
 -  Currently learning Game Development with Unity
--  Connect with me on [Instagram](https://www.instagram.com/devwizard_/)
+-  Connect with me on [Instagram](https://www.instagram.com/nyctophile._.x1/)
 
 
 <!---
