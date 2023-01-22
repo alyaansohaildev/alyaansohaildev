@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyaansohaildev&show_icons=true&locale=en" alt="alyaansohaildev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyaansohaildev&" alt="alyaansohaildev" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyaansohaildev&theme=tokyonight)
